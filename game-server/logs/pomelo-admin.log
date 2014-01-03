@@ -1,0 +1,8 @@
+[2014-01-03 16:30:57.299] [INFO] pomelo-admin - [32m[/home/zhou/code/chatTest/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "master", "192.168.1.142", 3005
+[2014-01-03 16:31:01.379] [INFO] pomelo-admin - [32m[/home/zhou/code/chatTest/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "chat", "192.168.1.142", 3005
+[2014-01-03 16:31:01.960] [INFO] pomelo-admin - [32m[/home/zhou/code/chatTest/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "gate", "192.168.1.142", 3005
+[2014-01-03 16:31:02.319] [INFO] pomelo-admin - [32m[/home/zhou/code/chatTest/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "connector", "192.168.1.142", 3005
+[2014-01-03 17:13:49.468] [INFO] pomelo-admin - [32m[/home/zhou/code/chatTest/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "master", "192.168.1.142", 3005
+[2014-01-03 17:13:54.980] [INFO] pomelo-admin - [32m[/home/zhou/code/chatTest/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "chat", "192.168.1.142", 3005
+[2014-01-03 17:13:55.231] [INFO] pomelo-admin - [32m[/home/zhou/code/chatTest/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "gate", "192.168.1.142", 3005
+[2014-01-03 17:13:55.651] [INFO] pomelo-admin - [32m[/home/zhou/code/chatTest/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "connector", "192.168.1.142", 3005
