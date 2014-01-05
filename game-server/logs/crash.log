@@ -1,0 +1,4 @@
+[2014-01-04 19:58:19.978] [INFO] crash-log - [32m[/home/zhou/code/mytest/game-server/node_modules/pomelo/lib/master/master.js] [39m[gate],[gate-server-1],[1388836699978],[disconnect]
+[2014-01-04 20:03:06.115] [INFO] crash-log - [32m[/home/zhou/code/mytest/game-server/node_modules/pomelo/lib/master/master.js] [39m[gate],[gate-server-1],[1388836986115],[disconnect]
+[2014-01-04 20:18:59.303] [INFO] crash-log - [32m[/home/zhou/code/mytest/game-server/node_modules/pomelo/lib/master/master.js] [39m[gate],[gate-server-1],[1388837939302],[disconnect]
+[2014-01-04 23:22:13.195] [INFO] crash-log - [32m[/home/zhou/code/mytest/game-server/node_modules/pomelo/lib/master/master.js] [39m[gate],[gate-server-1],[1388848933195],[disconnect]

@@ -14,7 +14,7 @@ app.configure('development|production',function(){
 
     });
 
-    app.filter(pomelo.timeout());
+//    app.filter(pomelo.timeout());
 
     app.set('connectorConfig',{
         connector : pomelo.connectors.hybridconnector,
