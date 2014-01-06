@@ -26,7 +26,7 @@
       <file leaf-file-name="servers.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/servers.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="12" selection-start="193" selection-end="193" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="450">
+            <state line="5" column="12" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="450">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="entryHandler.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/servers/connector/handler/entryHandler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="49" selection-start="434" selection-end="434" vertical-scroll-proportion="0.45762712" vertical-offset="135" max-vertical-offset="1020">
+            <state line="30" column="11" selection-start="750" selection-end="750" vertical-scroll-proportion="0.6984479" vertical-offset="135" max-vertical-offset="1020">
               <folding />
             </state>
           </provider>
@@ -137,6 +137,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -263,28 +264,19 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="editor.preferences.completion" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PomeloFlashDemo/server" />
-    <property name="options.searchVisible" value="true" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Node.js Remote Debug.gateTest">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -295,15 +287,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
@@ -394,7 +394,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43186584" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32704404" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32669324" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -428,72 +428,52 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/dictionary.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="274">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="274" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/serverProtos.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="760">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="760" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/master.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="49" selection-start="160" selection-end="160" vertical-scroll-proportion="-1.0135136" vertical-offset="0" max-vertical-offset="210">
-          <folding />
-        </state>
+        <state line="5" column="49" selection-start="160" selection-end="160" vertical-scroll-proportion="-1.0135136" vertical-offset="0" max-vertical-offset="210" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/adminUser.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="420">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="420" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/adminServer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="215" selection-end="215" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="9" column="17" selection-start="215" selection-end="215" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/log4js.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1695">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1695" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="7" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.33333334" vertical-offset="987" max-vertical-offset="2865">
-          <folding />
-        </state>
+        <state line="70" column="7" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.33333334" vertical-offset="987" max-vertical-offset="2865" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="630">
-          <folding />
-        </state>
+        <state line="15" column="0" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="630" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/pomelo/lib/connectors/hybridconnector.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="19" selection-start="2067" selection-end="2067" vertical-scroll-proportion="0.33211678" vertical-offset="959" max-vertical-offset="2760">
-          <folding />
-        </state>
+        <state line="70" column="19" selection-start="2067" selection-end="2067" vertical-scroll-proportion="0.33211678" vertical-offset="959" max-vertical-offset="2760" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/pomelo/lib/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="715" column="0" selection-start="18345" selection-end="18345" vertical-scroll-proportion="0.30204082" vertical-offset="10591" max-vertical-offset="13950">
-          <folding />
-        </state>
+        <state line="715" column="0" selection-start="18345" selection-end="18345" vertical-scroll-proportion="0.30204082" vertical-offset="10591" max-vertical-offset="13950" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/pomelo/lib/common/service/filterService.js">
@@ -512,9 +492,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/pomelo/lib/server/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="251" column="0" selection-start="6120" selection-end="6120" vertical-scroll-proportion="0.8816326" vertical-offset="3549" max-vertical-offset="6885">
-          <folding />
-        </state>
+        <state line="251" column="0" selection-start="6120" selection-end="6120" vertical-scroll-proportion="0.8816326" vertical-offset="3549" max-vertical-offset="6885" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/pomelo/lib/common/service/handlerService.js">
@@ -526,14 +504,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/servers.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="12" selection-start="193" selection-end="193" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="450">
+        <state line="5" column="12" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="450">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/servers/connector/handler/entryHandler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="49" selection-start="434" selection-end="434" vertical-scroll-proportion="0.45762712" vertical-offset="135" max-vertical-offset="1020">
+        <state line="30" column="11" selection-start="750" selection-end="750" vertical-scroll-proportion="0.6984479" vertical-offset="135" max-vertical-offset="1020">
           <folding />
         </state>
       </provider>
